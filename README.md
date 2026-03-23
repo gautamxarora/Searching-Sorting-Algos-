@@ -2,6 +2,7 @@
 
 Master Theorem
 Merge Sort    T(n) = 2T(n/2) + O(n)    ------>  O(n logn)
+
 Quick Sort    T(n) = 2T(n/2) + O(n)    ------>  O(n logn)
 
 Bubble Sort             O(n²)
